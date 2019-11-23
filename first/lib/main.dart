@@ -101,7 +101,6 @@ class MyHomePage extends StatelessWidget {
               ),
               Container(
                   margin: EdgeInsets.only(top: 10, left: 10),
-                  color: Colors.yellow,
                   child: Text('Liked by shahnazasyf and 100 others')),
               Container(
                 margin: EdgeInsets.only(left: 10),
